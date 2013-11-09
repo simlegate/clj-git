@@ -1,10 +1,11 @@
 # clj-git
 
-FIXME: description
+Access to Git repositories via Clojure 
 
 ## Installation
 
-Download from http://example.com/FIXME.
+    :dependencies
+      [[clj-http "0.1.1"] ...]
 
 ## Usage
 
